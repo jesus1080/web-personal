@@ -1,2 +1,2 @@
 # web-personal
-Web personal creada en Djando 
+Web personal creada con Djando 
